@@ -1,5 +1,5 @@
 
-# Rylee Fletcher's Portfolio
+# Rylee Fletcher's Portfolio 
 
 I am a computer science major at Cal State Fullerton University. My goal is to graduate in 2028 with a computer science degree and some other minor degrees. 
 
