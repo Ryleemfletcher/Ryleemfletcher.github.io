@@ -5,7 +5,7 @@ I am a computer science major at Cal State Fullerton University. My goal is to g
 
 ## Favorite labs from CPSC 120L
 
-Lab 3, part 2, was my favorite lab. During this lab programming started to click for me. I realized the importance of stepping away from the computer and solving the problem on paper without all the code. Because I stepped away, I was able to come up with a solution to how the program would work, and it did! It was a great moment for me!
+Lab 3, part 2, was my favorite lab. During this lab programming started to click for me. I realized the importance of stepping away from the computer and solving the problem on paper without all the code. Because I stepped away, I was able to come up with a solution to how the program would work, and it did! It was a great moment for me! 
 
 Lab 6, part 2, has become one of my favorite labs because of the challenge. My partner and I were tasked to develop a program with functions that held cards in a deck so the user could play Blackjack. Our program was spot on, except for the ace bonus. My partner and I tried various complicated statements and expressions to get the ace bonus right, but it was a simple statement. I learned a valuable lesson: try to keep things simple because the answer is usually simple.
 
